@@ -19,6 +19,7 @@ Verbos terminados em -por são conjugados conforme a conjugação do verbos pôr
 
 -Ter
 -Pôr
+-Haver
 
 # Particípios Irregulares Adcionados
 
