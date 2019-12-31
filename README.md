@@ -25,6 +25,34 @@ Verbos terminados em -por são conjugados conforme a conjugação do verbos pôr
 
 -Abrir (Aberto)
 
+# Conjugações Disponíveis
+
+INDICATIVO
+    -Presente
+    -Pretérito Mais-que-perfeito (com versão composta)
+    -Pretérito Perfeito (com versão composta)
+    -Pretérito Imperfeito
+    -Futuro do Presente (com versão composta)
+    -Futuro do Pretérito (com versão composta)
+Subjuntivo
+  -Presente
+  -Pretérito Imperfeito
+  -Futuro (com versão composta)
+  -Pretérito Mais-que-perfeito Composto
+  -Pretérito Perfeito Composto
+IMPERATIVO
+  -Positivo
+  -Negativo
+GERÚNDIO
+  -Simples
+  -Composto
+INFINITIVO
+  -Pessoal
+  -Impessoal
+PARTICÍPIO
+  -Masculino (com versão pluralizada)
+  -Feminino (Com versão pluralizada)
+
 # Notas
 
 https://www.conjugacao.com.br/verbos-irregulares/ é usado como fonte para a inserção dos verbos irregulares.
