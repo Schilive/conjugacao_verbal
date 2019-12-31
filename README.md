@@ -19,10 +19,39 @@ Verbos terminados em -por são conjugados conforme a conjugação do verbos pôr
 
 -Ter
 -Pôr
+-Haver
 
 # Particípios Irregulares Adcionados
 
 -Abrir (Aberto)
+
+# Conjugações Disponíveis
+
+INDICATIVO
+    -Presente
+    -Pretérito Mais-que-perfeito (com versão composta)
+    -Pretérito Perfeito (com versão composta)
+    -Pretérito Imperfeito
+    -Futuro do Presente (com versão composta)
+    -Futuro do Pretérito (com versão composta)
+Subjuntivo
+  -Presente
+  -Pretérito Imperfeito
+  -Futuro (com versão composta)
+  -Pretérito Mais-que-perfeito Composto
+  -Pretérito Perfeito Composto
+IMPERATIVO
+  -Positivo
+  -Negativo
+GERÚNDIO
+  -Simples
+  -Composto
+INFINITIVO
+  -Pessoal
+  -Impessoal
+PARTICÍPIO
+  -Masculino (com versão pluralizada)
+  -Feminino (Com versão pluralizada)
 
 # Notas
 
